@@ -2,7 +2,7 @@
 
 ESP:
 
-Proyecto de entrenamiento supervisado de modelos de Machine Learning para predecir el sentimiento y la emoción de un tweet dado utilizando un dataset de casi 25.000 tweets y modelos de Scikit-Learn.
+Proyecto de entrenamiento supervisado de modelos de Machine Learning para predecir el sentimiento y la emoción de un tweet dado utilizando un dataset de casi 25.000 tweets y modelos de Scikit-learn.
 
 Entrenamos 2 modelos (sentimiento y emoción) para, finalmente, comparar la precisión de ambos y determinar cuál es más eficaz.
 
@@ -16,7 +16,7 @@ Este proyecto fue realizado en conjunto con Germán Fernández y Sergio Soler pa
 
 ENG:
 
-Supervised Machine Learning Training Project to Predict Sentiment and Emotion of a given tweet using a dataset of nearly 25,000 tweets and Scikit-Learn models.
+Supervised Machine Learning Training Project to Predict Sentiment and Emotion of a given tweet using a dataset of nearly 25,000 tweets and Scikit-learn models.
 
 We trained 2 models (sentiment and emotion) to eventually compare the accuracy of both and determine which one is more effective.
 
